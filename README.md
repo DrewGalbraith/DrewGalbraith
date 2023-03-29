@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DrewGalbraith
-- 👀 I’m interested in NLP and MT.
+- 👀 I’m interested in NLP and DL at large.
 - 🌱 I’m currently learning to analyze language and build tools ethically.
 
 <!---
